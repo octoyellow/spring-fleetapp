@@ -1,0 +1,12 @@
+ninstanceKlass org/springframework/security/web/FilterChainProxy$NullFilterChainValidator
+instanceKlass org/springframework/security/web/FilterChainProxy$FilterChainValidator
+instanceKlass org/springframework/security/web/access/RequestMatcherDelegatingWebInvocationPrivilegeEvaluator
+instanceKlass org/springframework/security/config/annotation/web/builders/WebSecurity$$Lambda$1031
+instanceKlass org/springframework/security/web/access/DefaultWebInvocationPrivilegeEvaluator
+instanceKlass org/springframework/security/web/DefaultSecurityFilterChain
+instanceKlass org/springframework/security/access/intercept/AfterInvocationManager
+instanceKlass org/springframework/security/access/intercept/InterceptorStatusToken
+instanceKlass org/springframework/security/web/access/intercept/DefaultFilterInvocationSecurityMetadataSource$$Lambda$1030
+instanceKlass org/springframework/security/access/intercept/AbstractSecurityInterceptor$$Lambda$1029
+instanceKlass org/springframework/security/access/intercept/AbstractSecurityInterceptor$$Lambda$1028
+instanceKlass org/springframework/security/access/intercept/AbstractSecurityInterceptor$$Lambda$1027
